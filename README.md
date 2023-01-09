@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rezkita Syarihna</h1>
 <h3 align="center">A lifelong learner from Indonesia</h3>
 
+- 🔭 I’m currently interested to become **a professional data scientist**
+
+- 👯 I’m looking to collaborate on **open source project**
+
 - 📫 How to reach me **rezkitasyarihna@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
