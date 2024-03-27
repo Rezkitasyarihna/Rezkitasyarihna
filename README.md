@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rezkita Syarihna</h1>
 <h3 align="center">A lifelong learner from Indonesia that currently studying data science in marketing field</h3>
 
-- 🌱 I’m currently learning **data science**
+- 🌱 I’m currently learning **data analytic**
 
 - 👯 I’m currently open to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [leetcode.com/rezkitasyarihna](leetcode.com/rezkitasyarihna)
-
-- 📝 I regularly write articles on [medium.com/@rezkitasyarihna](medium.com/@rezkitasyarihna)
+- 📝 I write articles on [medium.com/@rezkitasyarihna](medium.com/@rezkitasyarihna)
 
 - 📫 How to reach me **rezkitasyarihna@gmail.com**
 
